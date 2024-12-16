@@ -34,4 +34,3 @@ Each time a change gets pushed to this repo, a github actions triggers and plots
 artifact.
 
 
-I clonned this repo.
