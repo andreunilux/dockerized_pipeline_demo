@@ -1,3 +1,4 @@
+
 # dockerized_pipeline_demo
 
 ## How to run this pipeline
@@ -31,3 +32,6 @@ You need to have Docker installed.
 
 Each time a change gets pushed to this repo, a github actions triggers and plots get saved as an 
 artifact.
+
+
+I clonned this repo.
